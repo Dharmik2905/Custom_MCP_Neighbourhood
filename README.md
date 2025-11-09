@@ -9,7 +9,7 @@ Multi-Source Integration: Aggregates weather, crime statistics, housing prices, 
 AI-Powered Evaluation: Uses Claude 3.5 Sonnet to synthesize raw data into actionable insights
 Comparative Analysis: Can evaluate and compare multiple neighborhoods side-by-side
 
-### 🔑 Key Capabilities
+### Key Capabilities
 - **Smart Context Assembly** – Automatically determines what data is relevant for each query  
 - **Multi-Source Integration** – Aggregates weather, crime, housing, walkability, and more  
 - **AI-Powered Evaluation** – Uses *Claude 3.5 Sonnet* to synthesize raw data into actionable insights  
@@ -32,14 +32,14 @@ Comparative Analysis: Can evaluate and compare multiple neighborhoods side-by-si
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
-### 🧩 Prerequisites
+###  Prerequisites
 - Python 3.8+
 - `pip` package manager
 - Valid API keys (see Configuration)
 
-### 📦 Installation
+###  Installation
 ```bash
 #Clone the repository
 git clone <your-repo-url>
